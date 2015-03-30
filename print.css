@@ -1,0 +1,43 @@
+body {
+font-family: Times, Georgia, serif;
+font-size: 14pt;
+background: none;
+}
+
+h1, h3 {
+font-family: Times;
+font-style: normal;
+font-size: 18pt;
+font-weight: bold;
+}
+
+h1 {
+margin: 0;
+text-align: left;
+text-transform: uppercase;
+}
+
+p {
+font-family: Times, Georgia, serif;
+}
+
+
+.contact {
+margin: 0;
+border: none;
+text-align: left;
+}
+
+.nav {
+display: none;
+}
+
+
+li{
+list-style: square;
+}
+
+
+#footer {
+text-align: left;
+}
